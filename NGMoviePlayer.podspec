@@ -78,8 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/taher-mosbah/NGMoviePlayer.git", :commit => "12db8a08553c4533df91694aba774b23e0361a13", 
-                     :submodules => true}
+  s.source       = { :git => "https://github.com/taher-mosbah/NGMoviePlayer.git", :commit => "12db8a08553c4533df91694aba774b23e0361a13" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
